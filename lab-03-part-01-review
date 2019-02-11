@@ -23,7 +23,8 @@ pwd home
 
 Write the command that you used to do this - as well as its output - below :
 ----------
-
+cd -
+/Users/student
 
 
 ==========
@@ -37,7 +38,7 @@ Write the command(s) that you used to determine this - as well as its output - b
 ==========
 4. If there are directories or files in your home directory that have the word mtec1003 in them, list them below (otherwise skip this step):
 ----------
-mtec1003-lab-02.zip
+
 
 
 ==========
